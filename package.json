@@ -1,0 +1,52 @@
+{
+  "name": "rss-reader",
+  "version": "1.0.0",
+  "description": "test task (Junior Javascript Developer)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Evgeniy331/binary-academy-hw/tree/master/HW11"
+  },
+  "author": "Evgeniy Dubrovskiy",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.15.2",
+    "babel": "^6.5.2",
+    "babel-core": "^6.11.4",
+    "babel-loader": "^6.2.4",
+    "babel-polyfill": "^6.9.1",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "history": "^2.0.0",
+    "mongoose": "^4.8.1",
+    "raw-loader": "^0.5.1",
+    "react": "^15.2.1",
+    "react-cookie": "^0.4.8",
+    "react-dom": "^15.2.1",
+    "react-modal": "^1.6.5",
+    "react-redux": "^4.4.5",
+    "react-router": "^2.6.0",
+    "react-simple-pie-chart": "^0.4.0",
+    "redux": "^3.5.2",
+    "redux-logger": "^2.6.1",
+    "redux-thunk": "^2.1.0",
+    "rss-to-json": "^1.0.2",
+    "style-loader": "^0.13.1",
+    "sweetalert": "^1.1.3",
+    "webpack": "^1.13.1",
+    "webpack-dev-middleware": "^1.6.1",
+    "webpack-hot-middleware": "^2.12.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "rss",
+    "react",
+    "test-task"
+  ]
+}
